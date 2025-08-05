@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi, I'am Ananya👋🏻
+ I am currently a 2nd-year CSE student passionate about tech. I am captivated by the dynamic fields of web and app development, and strive to create intuitive and engaging user experiences through UI design.  I'm eager to explore different technological domains and leverage my problem-solving tackle new real-world challenges.
 
+ 🔭 I’m currently working with Dart and flutter    
+ 🌱 Constantly learning and improving my DSA skills
+ 
 <!--
-**AnanyaBinjola/AnanyaBinjola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
