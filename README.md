@@ -1,4 +1,4 @@
-## Hi, I'am Ananya👋🏻
+## Hi, I'm Ananya👋🏻
  I am currently a 2nd-year CSE student passionate about tech. I am captivated by the dynamic fields of web and app development, and strive to create intuitive and engaging user experiences through UI design.  I'm eager to explore different technological domains and leverage my problem-solving tackle new real-world challenges.
 
  🔭 I’m currently working with Dart and flutter    
