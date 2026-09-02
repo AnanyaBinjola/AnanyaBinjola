@@ -128,25 +128,27 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,js,ts,python,postgres&perline=8&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,fastapi,supabase,sqlite,figma,github&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,js,ts,py,postgres,react,flutter,tailwind,vite,fastapi,supabase,sqlite,postman,figma,notion,git,github,vercel,netlify,vscode,bash,nodejs,express,prisma,firebase,redux,pytorch,tensorflow,anaconda&perline=8&theme=dark" />
 
 </div>
 
 <br/>
 
 #### **Languages & Core**
-`C` · `C++` · `Java` · `Dart` · `TypeScript` · `JavaScript` · `Python` · `SQL`
+`TypeScript` · `JavaScript (ES6+)` · `Python` · `Dart` · `C` · `C++` · `Java` · `SQL`
 
-#### **Frameworks & Mobile Engineering**
-`Flutter` · `React Native` · `Expo` · `React.js` · `Vite` · `Tailwind CSS` · `React Navigation` · `Metro Bundler`
+#### **Mobile & Frontend Engineering**
+`React Native` · `Expo (SDK)` · `Flutter` · `React.js` · `Vite` · `Tailwind CSS` · `Redux` · `React Navigation` · `Metro Bundler`
 
-#### **Backend & Data Architecture**
-`FastAPI` · `Supabase` · `PostgreSQL` · `SQLite (Offline-First)` · `RESTful APIs` · `Streamlit` · `Pandas`
+#### **AI, ML & Data Systems**
+`PyTorch` · `TensorFlow` · `Scikit-Learn` · `OpenCV` · `Streamlit` · `Pandas` · `NumPy` · `Anaconda`
 
-#### **Product Design & Systems**
-`Figma (Design Systems & Prototyping)` · `Affinity Designer` · `Canva` · `Wireframing` · `Visual Hierarchy`
+#### **Backend, APIs & Cloud Infrastructure**
+`Node.js` · `Express.js` · `FastAPI` · `PostgreSQL` · `PostGIS` · `Supabase` · `Firebase` · `SQLite (Offline-First)` · `Prisma` · `Drizzle ORM` · `RESTful APIs` · `WebSockets / Socket.IO` · `Vercel` · `Netlify` · `Postman`
+
+#### **Product Design & Collaboration**
+`Figma (Design Systems & Prototyping)` · `Affinity Designer` · `Canva` · `Notion` · `Git` · `GitHub` · `VS Code` · `Bash`
+
 
 ---
 
