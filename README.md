@@ -100,27 +100,33 @@
 
   <tr>
     <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/AnanyaBinjola">
+      <a href="https://github.com/AnanyaBinjola/recoverai">
         <img src="assets/recoverai-demo.gif" width="420" alt="RecoverAI" style="border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);" />
       </a>
     </td>
     <td width="65%" valign="middle">
-      <h3>🩹 RecoverAI — Revenue Recovery Engine</h3>
-      <p><b>Razorpay AI Buildathon:</b> Automated payment failure triage system replacing naive blind retries with webhook reasoning.</p>
+      <h3>💳 <a href="https://github.com/AnanyaBinjola/recoverai" style="text-decoration: none; color: inherit;">RecoverAI — Governed Autonomous Payment Recovery</a></h3>
+      <p><b>Razorpay AI Buildathon:</b> Governed recovery agent replacing blind retries with an LLM-diagnostic proposal and zero-LLM deterministic policy gate.</p>
       <p>
-        • Integrates Bank Health Radar and policy-gated recovery flows.<br/>
-        • Built-in failure simulation playground and analytics dashboard.
+        • Delivers <b>+₹28,075 (+4.08%) net value uplift</b> over naive retries with <b>98% (49/50)</b> human-labeled benchmark agreement.<br/>
+        • Built-in closed-loop fallback planner, Bank/Rail Health Radar, and interactive Streamlit What-If Sandbox.
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=py,fastapi,streamlit" height="28" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="22" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22" />
       </p>
       <p>
-        <a href="https://github.com/AnanyaBinjola"><img src="https://img.shields.io/badge/System_Architecture-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
+        <a href="https://github.com/AnanyaBinjola/recoverai"><img src="https://img.shields.io/badge/Source_Code-24292E?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
 
-  </table>
+</table>
 
 ---
 
@@ -148,7 +154,6 @@
 
 #### **Product Design & Collaboration**
 `Figma (Design Systems & Prototyping)` · `Affinity Designer` · `Canva` · `Notion` · `Git` · `GitHub` · `VS Code` · `Bash`
-
 
 ---
 
