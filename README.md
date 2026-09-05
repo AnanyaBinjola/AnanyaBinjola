@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ananyabinjola.netlify.app/"><img src="https://img.shields.io/badge/✦_Portfolio-0f172a?style=for-the-badge&logo=dribbble&logoColor=F43F5E" alt="Portfolio" /></a>
+  <a href="https://ananya-binjola.netlify.app/"><img src="https://img.shields.io/badge/✦_Portfolio-0f172a?style=for-the-badge&logo=dribbble&logoColor=F43F5E" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ananya-binjola-53854b325/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
   &nbsp;
